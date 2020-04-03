@@ -1,0 +1,6 @@
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\bin\Debug\AI SA - Popovici Iulian.exe.config
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\bin\Debug\AI SA - Popovici Iulian.exe
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\bin\Debug\AI SA - Popovici Iulian.pdb
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\obj\Debug\AI SA - Popovici Iulian.csprojAssemblyReference.cache
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\obj\Debug\AI SA - Popovici Iulian.exe
+C:\Users\iulian.popovici\Desktop\AI SA - Popovici Iulian\AI SA - Popovici Iulian\obj\Debug\AI SA - Popovici Iulian.pdb
