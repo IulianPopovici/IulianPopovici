@@ -1,0 +1,6 @@
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\bin\Debug\Lab 3 AI - Popovici Iulian.exe.config
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\bin\Debug\Lab 3 AI - Popovici Iulian.exe
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\bin\Debug\Lab 3 AI - Popovici Iulian.pdb
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\obj\Debug\Lab 3 AI - Popovici Iulian.csprojAssemblyReference.cache
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\obj\Debug\Lab 3 AI - Popovici Iulian.exe
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\Lab 3 AI - Popovici Iulian\Lab 3 AI - Popovici Iulian\obj\Debug\Lab 3 AI - Popovici Iulian.pdb
