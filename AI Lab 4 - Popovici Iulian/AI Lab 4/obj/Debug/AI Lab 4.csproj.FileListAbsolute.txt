@@ -1,0 +1,6 @@
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\bin\Debug\AI Lab 4.exe.config
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\bin\Debug\AI Lab 4.exe
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\bin\Debug\AI Lab 4.pdb
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\obj\Debug\AI Lab 4.csprojAssemblyReference.cache
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\obj\Debug\AI Lab 4.exe
+C:\Users\iulian.popovici\Desktop\Artificial Intelligence\AI Lab 4\AI Lab 4\obj\Debug\AI Lab 4.pdb

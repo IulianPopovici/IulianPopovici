@@ -1,0 +1,14 @@
+Total distance is: 104593
+Total distance is: 132764
+Total distance is: 115482
+Total distance is: 139499
+Total distance is: 104646
+Total distance is: 139590
+Total distance is: 156466
+Total distance is: 138307
+Total distance is: 107598
+Total distance is: 127507
+
+Total elapsed time = 167.4465022
+The smallest diststance is: 104593
+The average diststance is: 126645
